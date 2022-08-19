@@ -21,6 +21,7 @@
     "event-marker": "git+https://github.com/brown-ccv/event-marker.git",
     "execa": "^5.0.0",
     "firebase": "^9.8.4",
+    "firebase-admin": "^11.0.1",
     "fs-extra": "^8.1.0",
     "jquery": "^3.4.1",
     "jspsych": "^7.2.3",
